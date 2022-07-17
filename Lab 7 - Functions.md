@@ -479,3 +479,26 @@ Har bir `testcase` uchun shahzoda nechta planeta chegarasini kesib o'tishga majb
 | Input | Output |
 | - | - | 
 | `2`<br>`-5 1 12 1`<br>`7`<br>`1 1 8`<br>`-3 -1 1`<br>`2 2 2`<br>`5 5 1`<br>`-4 5 1`<br>`12 1 1`<br>`12  1 2`<br>`-5 1 5 1`<br>`1`<br>` 0 0 2` | `3`<br>`0` |
+
+### Masala 13
+
+##### Description
+Guruhdagi talabalar orasidan ismi eng qisqasini ekranga chiqarishimiz kerak.
+
+Buning uchun birga talabalar soni va ularning ismlari berilgan bo'ladi va bir ular orasidan eng qisqa uzunlikka ega ismni ekranga chiqarishimiz kerak.
+
+#### Input
+Guruhdagi talabalar soni N ni va har bir talabaning ismini o'qib oling.
+
+#### Output
+Berilgan sonning ikkilik sanoq tizimidagi ko'rinishida mavjud bo'ladigan `1` lar soni.
+
+#### Namuna 1
+| Input | Output |
+| - | - | 
+| `2` <br>`Rushana`<br>`Odil`|`Odil`| 
+
+#### Namuna 2
+| Input | Output |
+| - | - | 
+| `4` <br>`Rushana`<br>`Odil`<br>`Asilbek`<br>`Diyor`|`Odil`|
